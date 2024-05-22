@@ -3,7 +3,7 @@ public class MyClass {
     System.out.println("Hello!");
   }
 
-  public static void main(String[] args) {
+  public static void main(String[] args) gdhghgdhh{
     myMethod();
   }
 }
